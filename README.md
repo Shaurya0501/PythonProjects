@@ -24,14 +24,3 @@ Here is an example interaction from the terminal:
 > **Assistant:** (detailed answer combining scientific and religious theories)
 
 ![Sample output](result.png)
-
-
----
-
-## 🏁 Getting Started
-
-### 1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/langchain-groq-agent.git
-cd langchain-groq-agent
